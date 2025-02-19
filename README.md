@@ -4,7 +4,7 @@ Traduction complète de l'admin de ProcessWire
 
 très peu de changements par rapport à la version 3.0.244
 
-mise à jour à partir de la version que j'avais pondue pour la version 3.0.229 mise à jour au fil des versions et finalisée pour cette dernière verion master
+mise à jour à partir de la version que j'avais pondue pour la version 3.0.244 mise à jour au fil des versions et finalisée pour cette dernière verion master
 
 comme déjà souvent dit, je suis parti à la base sur la version pour pw 3.0.148 faite par les traducteurs cités plus bas puis les diverses versions depuis la 3.0.184 made in ma pomme
 
